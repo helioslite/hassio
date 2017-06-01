@@ -3,12 +3,12 @@ from pathlib import Path
 
 HASSIO_VERSION = '0.35'
 
-URL_HASSIO_VERSION = ('https://raw.githubusercontent.com/home-assistant/'
+URL_HASSIO_VERSION = ('https://raw.githubusercontent.com/helioslite/'
                       'hassio/master/version.json')
-URL_HASSIO_VERSION_BETA = ('https://raw.githubusercontent.com/home-assistant/'
+URL_HASSIO_VERSION_BETA = ('https://raw.githubusercontent.com/helioslite/'
                            'hassio/dev/version.json')
 
-URL_HASSIO_ADDONS = 'https://github.com/home-assistant/hassio-addons'
+URL_HASSIO_ADDONS = 'https://github.com/helioslite/hassio-addons'
 
 HASSIO_SHARE = Path("/data")
 
